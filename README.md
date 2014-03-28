@@ -12,6 +12,15 @@
 ==========
 jQuery
 
+Установка
+=========
+
+Установка через composer:
+
+	"require": {
+		"solo/formrestore": "dev-master"
+	}
+
 Пример
 ======
 
