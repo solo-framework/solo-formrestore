@@ -1,8 +1,8 @@
 {
     "name": "solo/formrestore",
-    "description": "Set of classes which are implement forms population from saved json data",
+    "description": "Set of classes which implement forms population from saved json data",
     "license": "MIT",
-	"keywords": [ "php", "form restore", "form", "solo framework" ],
+	"keywords": [ "php", "form restore", "form", "form population", "Smarty", "solo framework" ],
     "authors": [
         {
             "name": "Andrey Filippov",
